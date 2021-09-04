@@ -2,8 +2,8 @@
 
 ### Algorithm
 
-| #   | Title                                                                                     | Solution             | Difficulty |
-| --- | ----------------------------------------------------------------------------------------- | -------------------- | ---------- |
-| 1   | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [C++](./algorithms/) | Medium     |
+| #   | Title                                                             | Solution                                         | Difficulty |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------ | ---------- |
+| 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [TypeScript](./algorithms/ts/reverse-integer.ts) | Easy       |
 
 ### Database
