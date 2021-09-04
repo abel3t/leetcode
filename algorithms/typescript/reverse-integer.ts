@@ -30,5 +30,3 @@ function isOutOfRange(x: number, k: number) {
   }
   return -x <= -2147483648;
 }
-
-console.log(reverse(-9));
