@@ -19,7 +19,5 @@ class Solution:
         generate()
         return result
 
-
-
 # @lc code=end
 
