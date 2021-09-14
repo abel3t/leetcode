@@ -14,4 +14,3 @@ class Solution:
             prev1, prev2 = min_cost, prev1
         return prev1
 # @lc code=end
-
