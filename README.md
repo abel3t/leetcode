@@ -6,6 +6,7 @@
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                 | [Python](./70.climbing-stairs.py)                  | Easy       |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                               | [Python](./118.pascals-triangle.py)                | Easy       |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                        | [Python](./119.pascals-triangle-ii.py)             | Easy       |
+| 120  | [Triangle](https://leetcode.com/problems/triangle/)                                               | [Python](./120.triangle.py)                        | Medium     |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./121.best-time-to-buy-and-sell-stock.py) | Easy       |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)                                       | [Python](./198.house-robber.py)                    | Medium     |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                     | [Python](./338.counting-bits.py)                   | Easy       |
