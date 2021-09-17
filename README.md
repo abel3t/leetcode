@@ -13,6 +13,7 @@
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                     | [Python](./338.counting-bits.py)                   | Easy       |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                   | [Python](./392.is-subsequence.py)                  | Easy       |
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                               | [Python](./509.fibonacci-number.py)                | Easy       |
+| 740  | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                 | [Python](./740.delete-and-earn.py)                 | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)               | [Python](./746.min-cost-climbing-stairs.py)        | Easy       |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                       | [Python](./1025.divisor-game.py)                   | Easy       |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                   | [Python](./1137.n-th-tribonacci-number.py)         | Easy       |
