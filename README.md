@@ -4,6 +4,7 @@
 | ---- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                       | [Python](./22.generate-parentheses.py)             | Medium     |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                       | [Python](./45.jump-game-ii.py)                     | Medium     |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                               | [Python](./53.maximum-subarray.py)                 | Easy       |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                             | [Python](./55.jump-game.py)                        | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                 | [Python](./70.climbing-stairs.py)                  | Easy       |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                               | [Python](./118.pascals-triangle.py)                | Easy       |
