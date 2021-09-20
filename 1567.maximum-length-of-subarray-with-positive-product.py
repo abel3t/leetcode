@@ -11,18 +11,18 @@ class Solution:
             return 0
 
         pos = 1 if nums[0] > 0 else 0
-        result = pos
         neg = 1 if nums[0] < 0 else 0
+        result = pos
 
-        for i in range(1, len(nums)):
-            curr = nums[i]
-            if not curr:
+        for num in nums[1:]:
+            if not num:
                 pos, neg = 0, 0
             else:
                 next_neg = neg + 1 if neg > 0 else 0
                 next_pos = pos + 1
-                pos = next_neg if curr < 0 else next_pos
-                neg = next_pos if curr < 0 else next_neg
+
+                pos = next_neg if num < 0 else next_pos
+                neg = next_pos if num < 0 else next_neg
             result = max(result, pos)
         
         return result
