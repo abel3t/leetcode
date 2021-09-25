@@ -7,7 +7,8 @@
 # @lc code=start
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        current, prev, count, n = 0, 0, 0, len(nums)
+        n = len(nums)
+        current = prev = count = 0
         for i in range(n - 1):
             current = max(current, nums[i] + i)
             if current >= n - 1:
