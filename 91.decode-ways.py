@@ -13,8 +13,9 @@
 # @lc code=start
 class Solution:
     def numDecodings(self, s: str) -> int:
-        n, current, prev1, prev2 = len(s), 0, 1, 1
-
+        n, current = len(s), 0
+        prev1 = prev2 = 1, 1
+        
         if s[0] == '0':
             return 0
 
