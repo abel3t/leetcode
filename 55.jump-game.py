@@ -7,8 +7,7 @@
 # @lc code=start
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        n = len(nums)
-        power = 0
+        n, power = len(nums), 0
 
         for i in range(n):
             if nums[i] >= n - i - 1:
