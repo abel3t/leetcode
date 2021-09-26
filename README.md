@@ -2,7 +2,7 @@
 
 | #    | Title                                                                                                                                       | Solution                                                                | Difficulty |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
-| 7    | [Reverse Integer]](https://leetcode.com/problems/reverse-integer/)                                                                          | [Python](./7.reverse-integer.py)                                        | Easy       |
+| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                          | [Python](./7.reverse-integer.py)                                        | Easy       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                 | [Python](./22.generate-parentheses.py)                                  | Medium     |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                 | [Python](./45.jump-game-ii.py)                                          | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | [Python](./53.maximum-subarray.py)                                      | Easy       |
