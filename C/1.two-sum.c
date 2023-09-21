@@ -8,7 +8,7 @@
 
 typedef struct
 {
-  int number;
+  int num;
   int idx;
   // Makes structure hashable
   UT_hash_handle hh;
