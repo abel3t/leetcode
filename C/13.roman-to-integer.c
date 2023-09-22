@@ -5,8 +5,7 @@
  */
 
 // @lc code=start
-
-int decimalNumericalPlace(char roman)
+int RomanToIntMap(char roman)
 {
   switch (roman)
   {
@@ -42,8 +41,8 @@ int romanToInt(char *s)
 
   for (int i = 0; i < strlen(s); i++)
   {
-    const currentValue = decimalNumericalPlace(s[i]);
-    const nextValue = decimalNumericalPlace(s[i + 1]);
+    const currentValue = RomanToIntMap(s[i]);
+    const nextValue = RomanToIntMap(s[i + 1]);
 
     if (currentValue < nextValue)
     {
