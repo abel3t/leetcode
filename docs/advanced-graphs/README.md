@@ -1,21 +1,2 @@
 # Advanced Graphs
 
-### <mark style="color:green;">Intuition</mark>
-
-###
-
-### <mark style="color:green;">Approach</mark>
-
-###
-
-### <mark style="color:green;">Complexity</mark>
-
-* **Time:**
-* **Space:**
-* **Key Points:**
-
-### <mark style="color:green;">**Code**</mark>
-
-```cpp
-```
-
