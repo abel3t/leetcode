@@ -6,7 +6,7 @@ description: https://leetcode.com/problems/3sum/
 
 ### <mark style="color:green;">Intuition</mark>
 
-* Use two pointers to find all unique triplets that sum to zero.
+###* Use two pointers to find all unique triplets that sum to zero.
 
 ### <mark style="color:green;">Approach</mark>
 
