@@ -31,7 +31,6 @@ description: https://leetcode.com/problems/3sum/
   * Overall quadratic time complexity.
   * Linear space to store triplets.
 
-````cpp
 ```cpp
 class Solution
 {
@@ -81,5 +80,4 @@ public:
     }
 };
 ```
-````
 

@@ -16,8 +16,6 @@
 
 ### <mark style="color:green;">**Code**</mark>
 
-````cpp
 ```cpp
 ```
-````
 
