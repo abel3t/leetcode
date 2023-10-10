@@ -4,6 +4,7 @@
   * [217. Contains Duplicate](array-and-hashing/217.-contains-duplicate.md)
   * [242. Valid Anagram](array-and-hashing/242.-valid-anagram.md)
   * [1. Two Sum](array-and-hashing/1.-two-sum.md)
+  * [49. Group Anagrams](readme/49.-group-anagrams.md)
 * [Two Pointers](two-pointers/README.md)
   * [3Sum](two-pointers/3sum.md)
 * [Stack](stack/README.md)
