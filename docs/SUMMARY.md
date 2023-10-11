@@ -11,7 +11,7 @@
   * [128. Longest Consecutive Sequence](array-and-hashing/128.-longest-consecutive-sequence.md)
 * [Two Pointers](two-pointers/README.md)
   * [3Sum](two-pointers/3sum.md)
-  * [Valid Palindrome](two-pointers/valid-palindrome.md)
+  * [125. Valid Palindrome](two-pointers/125.-valid-palindrome.md)
 * [Stack](stack/README.md)
   * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
 * [Binary Search](binary-search/README.md)
