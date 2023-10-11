@@ -1,0 +1,27 @@
+---
+description: https://leetcode.com/problems/valid-palindrome
+---
+
+# Valid Palindrome
+
+### <mark style="color:green;">Intuition</mark>
+
+###
+
+### <mark style="color:green;">Approach</mark>
+
+###
+
+### <mark style="color:green;">Complexity</mark>
+
+* **Time:**
+* **Space:**
+
+### <mark style="color:green;">Key Points</mark>
+
+###
+
+### <mark style="color:green;">**Code**</mark>
+
+```cpp
+```
