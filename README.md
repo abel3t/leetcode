@@ -11,7 +11,7 @@
     <tr>
       <th>#</th>
       <th>Title</th>
-      <th>Tags</th>
+      <th>Topics</th>
       <th>Solution</th>
       <th>Difficulty</th>
     </tr>
@@ -29,5 +29,7 @@
       </td>       
       <td style="color: rgb(0 184 163)">Easy</td>
     </tr>
+
+
   </tbody>
 </table>
