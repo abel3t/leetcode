@@ -19,14 +19,14 @@
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td> 
-      <td style="color: rgb(0 184 163)">Easy</td>
-      <td>
+      <td style="text-align: center;">1</td>
+      <td style="text-align: center;"><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td> 
+      <td style="color: rgb(0 184 163); text-align: center;">Easy</td>
+      <td style="text-align: center;">
         <a href="./C/1.two-sum.c">C</a></br>
         <a href="./C++/array-and-hashing/1.two-sum.cpp">C++</a></br>
       </td>
-      <td><a href="https://abel3t.gitbook.io/leetcode/array-and-hashing/1.-two-sum">:book:</a></td> 
+      <td style="text-align: center;"><a href="https://abel3t.gitbook.io/leetcode/array-and-hashing/1.-two-sum">:book:</a></td> 
     </tr>
   </tbody>
 </table>
@@ -44,13 +44,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>125</td>
-      <td><a href="https://leetcode.com/problems/valid-palindrome">Valid Palindrome</a></td> 
-      <td style="color: rgb(0 184 163)">Easy</td>
-      <td>
+      <td style="text-align: center;">125</td>
+      <td style="text-align: center;"><a href="https://leetcode.com/problems/valid-palindrome">Valid Palindrome</a></td> 
+      <td style="color: rgb(0 184 163); text-align: center;">Easy</td>
+      <td style="text-align: center;">
         <a href="./C++/two-pointers/125.valid-palindrome.cpp">C++</a></br>
       </td>
-      <td><a href="https://abel3t.gitbook.io/leetcode/two-pointers/125.-valid-palindrome">:book:</a></td> 
+      <td style="text-align: center;"><a href="https://abel3t.gitbook.io/leetcode/two-pointers/125.-valid-palindrome">:book:</a></td> 
     </tr>
   </tbody>
 </table>
