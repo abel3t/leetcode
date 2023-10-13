@@ -18,6 +18,7 @@
   * [704. Binary Search](binary-search/704.-binary-search.md)
   * [74. Search a 2D Matrix](binary-search/74.-search-a-2d-matrix.md)
   * [875. Koko Eating Bananas](binary-search/875.-koko-eating-bananas.md)
+  * [153. Find Minimum in Rotated Sorted Array](binary-search/153.-find-minimum-in-rotated-sorted-array.md)
 * [Sliding Window](sliding-window/README.md)
   * [121. Best Time to Buy and Sell Stock](sliding-window/121.-best-time-to-buy-and-sell-stock.md)
 * [Linked List](linked-list/README.md)
