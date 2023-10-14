@@ -19,6 +19,8 @@
   * [74. Search a 2D Matrix](binary-search/74.-search-a-2d-matrix.md)
   * [875. Koko Eating Bananas](binary-search/875.-koko-eating-bananas.md)
   * [153. Find Minimum in Rotated Sorted Array](binary-search/153.-find-minimum-in-rotated-sorted-array.md)
+  * [981. Time Based Key-Value Store](binary-search/981.-time-based-key-value-store.md)
+  * [4. Median of Two Sorted Arrays](binary-search/4.-median-of-two-sorted-arrays.md)
 * [Sliding Window](sliding-window/README.md)
   * [121. Best Time to Buy and Sell Stock](sliding-window/121.-best-time-to-buy-and-sell-stock.md)
 * [Linked List](linked-list/README.md)
