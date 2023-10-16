@@ -23,6 +23,7 @@
   * [4. Median of Two Sorted Arrays](binary-search/4.-median-of-two-sorted-arrays.md)
 * [Sliding Window](sliding-window/README.md)
   * [121. Best Time to Buy and Sell Stock](sliding-window/121.-best-time-to-buy-and-sell-stock.md)
+  * [3. Longest Substring Without Repeating Characters](sliding-window/3.-longest-substring-without-repeating-characters.md)
 * [Linked List](linked-list/README.md)
   * [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
 * [Trees](trees/README.md)
