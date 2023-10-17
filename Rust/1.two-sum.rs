@@ -9,14 +9,17 @@ impl Solution {
   pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
     use std::collections::HashMap;
 
-    let mut m: HashMap<i32, i32> = HashMap::new();
+    let mut map = HashMap::new();
 
-    for (i, num) in nums.iter().enumerate(){
-      match m.get(&(target - *num)) {
-        Some(&i2) => return vec![i as i32, i2],
-        None => m.insert(*num, i as i32),
-      };
+    for (i, n) in nums.iter().enumerate() {
+      let diff = target - n;
+      if let Some(&j) = map.get(&diff) {
+        return vec![i as i32, j];
+      }
+
+      map.insert(*n, i as i32);
     }
+    
     vec![]
   }
 }
