@@ -24,6 +24,7 @@
 * [Sliding Window](sliding-window/README.md)
   * [121. Best Time to Buy and Sell Stock](sliding-window/121.-best-time-to-buy-and-sell-stock.md)
   * [3. Longest Substring Without Repeating Characters](sliding-window/3.-longest-substring-without-repeating-characters.md)
+  * [424. Longest Repeating Character Replacement](sliding-window/424.-longest-repeating-character-replacement.md)
 * [Linked List](linked-list/README.md)
   * [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
 * [Trees](trees/README.md)
