@@ -1,3 +1,7 @@
+#include <string>
+
+using namespace std;
+
 /*
  * @lc app=leetcode id=242 lang=cpp
  *
