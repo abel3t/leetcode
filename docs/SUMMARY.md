@@ -51,3 +51,5 @@
   * [332. Reconstruct Itinerary](advanced-graphs/332.-reconstruct-itinerary.md)
 * [Math & Geometry](math-and-geometry/README.md)
   * [48. Rotate Image](math-and-geometry/48.-rotate-image.md)
+* [Practice](practice/README.md)
+  * [9. Palindrome Number](practice/9.-palindrome-number.md)
