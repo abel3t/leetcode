@@ -7,18 +7,19 @@
 // @lc code=start
 func twoSum(nums []int, target int) []int {
 	numMap := make(map[int]int)
-	
+
 	for i, num := range nums {
-			complement := target - num
-			
-			if j, exists := numMap[complement]; exists {
-					return []int{j, i} 
-			}
-			
-			numMap[num] = i
+		complement := target - num
+
+		if j, exists := numMap[complement]; exists {
+			return []int{j, i}
+		}
+
+		numMap[num] = i
 	}
-	
+
 	return nil
 }
+
 // @lc code=end
 
