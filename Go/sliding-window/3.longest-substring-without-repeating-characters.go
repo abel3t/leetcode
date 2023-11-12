@@ -24,7 +24,6 @@ func lengthOfLongestSubstring(s string) int {
 	}
 
 	return maxLength
-
 }
 
 // @lc code=end

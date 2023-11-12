@@ -6,7 +6,7 @@
 
 // @lc code=start
 impl Solution {
-    pub fn is_anagram(s: String, t: String) -> bool {
+    pub fn is_anagram(s: String, t  : String) -> bool {
         let mut count = [0; 26];
 
         for c in s.chars() {
