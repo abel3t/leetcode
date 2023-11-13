@@ -29,6 +29,7 @@
   * [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
 * [Trees](trees/README.md)
   * [226. Invert Binary Tree](trees/226.-invert-binary-tree.md)
+  * [104. Maximum Depth of Binary Tree](trees/104.-maximum-depth-of-binary-tree.md)
 * [Tries](tries/README.md)
   * [208. Implement Trie (Prefix Tree)](tries/208.-implement-trie-prefix-tree.md)
 * [Backtracking](backtracking/README.md)
