@@ -44,6 +44,7 @@
   * [200. Number of Islands](graphs/200.-number-of-islands.md)
 * [1-D DP](1-d-dp/README.md)
   * [70. Climbing Stairs](1-d-dp/70.-climbing-stairs.md)
+  * [746. Min Cost Climbing Stairs](1-d-dp/746.-min-cost-climbing-stairs.md)
 * [2-D DP](2-d-dp/README.md)
   * [62. Unique Paths](2-d-dp/62.-unique-paths.md)
 * [Bit Manipulation](bit-manipulation/README.md)
